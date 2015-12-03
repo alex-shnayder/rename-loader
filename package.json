@@ -1,0 +1,24 @@
+{
+  "name": "rename-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader for renaming modules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-shnayder/rename-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "rename"
+  ],
+  "author": "Alex Shnayder <alex@shnayder.pro>",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^0.2.12"
+  },
+  "bugs": {
+    "url": "https://github.com/alex-shnayder/rename-loader/issues"
+  },
+  "homepage": "https://github.com/alex-shnayder/rename-loader#readme"
+}
